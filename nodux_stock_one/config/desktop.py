@@ -13,7 +13,7 @@ def get_data():
 		},
 
 		{
-			"module_name": "Nodux Stock One",
+			"module_name": "Stock",
 			"_doctype": "Stock One",
 			"color": "#f39c12",
 			"icon": "octicon octicon-package",
