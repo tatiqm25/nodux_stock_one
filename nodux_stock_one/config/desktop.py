@@ -9,7 +9,7 @@ def get_data():
 			"color": "darkgrey",
 			"icon": "octicon octicon-file-directory",
 			"type": "module",
-			"label": _("Nodux Stock One")
+			"hidden": 1
 		},
 
 		{
